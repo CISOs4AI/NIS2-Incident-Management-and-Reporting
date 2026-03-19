@@ -35,7 +35,7 @@ Alle seguenti condizioni:
 
 Come contribuire:
 
-1. Fork del repository ufficiale [https://github.com/CISOs4AI/NIS2-Incident-Management-and-Reporting/](https://github.com/CISOs4AI/NIS2-Incident-Management-and-Reporting/blob/main/CISOs4AI%20-%20Linee%20Guida%20Incidenti%20NIS%202_1.0.md) .
+1. Fork del repository ufficiale [https://github.com/CISOs4AI/NIS2-Incident-Management-and-Reporting/](https://github.com/CISOs4AI/NIS2-Incident-Management-and-Reporting/tree/main) .
 2. Proposta di modifiche via Pull Request con motivazione allegata.
 3. Review da parte della community CISOs4AI.
 4. Approvazione e merge nella versione ufficiale.
